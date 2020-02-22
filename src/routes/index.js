@@ -6,9 +6,9 @@ import getHash from '../utils/getHash';
 import resolveRoutes from '../utils/resolveRoutes';
 
 const routes = {
-  '/rick-and-morty/': Home,
-  '/rick-and-morty/:id': Character,
-  '/rick-and-morty/contact': 'Contact'
+  '/': Home,
+  '/:id': Character,
+  '/contact': 'Contact'
 };
 
 const router = async () => {
