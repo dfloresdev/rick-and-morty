@@ -16,11 +16,11 @@ https://dfloresdev.github.io/rick-and-morty/
 
 #### Index
 
-![](@attachment/Clipboard_2020-02-22-14-08-17.png)
+![](./.readme-statics/home.png)
 
 #### Cards
 
-![](@attachment/Clipboard_2020-02-22-14-10-42.png)
+![](./.readme-statics/card.png)
 
 ## How to use the project?
 
