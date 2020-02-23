@@ -6,7 +6,7 @@ This project was created with [Vanilla JS](http://vanilla-js.com/)
 The navigations was build with routers
 Yes onli JS!!
 
-## You can view the project in the next URL:
+## You can view the project in the next URL or [live demo](https://dfloresdev.github.io/rick-and-morty/):
 
 ```markdown
 https://dfloresdev.github.io/rick-and-morty/
